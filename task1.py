@@ -1,0 +1,5 @@
+print('Parni:')
+x = input()
+y = input()
+z = input()
+print('Poydem v Ligu ovna, ', x, y, z)
